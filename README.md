@@ -16,24 +16,11 @@ Pode acessar a página <a href="https://srbaliardo.github.io/hivetron-technology
 ## Equipe
 
 <div>
-  <div>
-    ### John Baliardo [Dev Frontend]
-    <br />
-    <a href="https://github.com/srbaliardo"> <i class="devicon-github-original"></i> </a>
-     | 
-    <a href="https://www.linkedin.com/in/john-baliardo">
-      <i class="devicon-linkedin-plain"></i>
-    </a>
-  </div>
-  <div>
-    ### Lucas Merino [Dev Backend]
-    <br />
-    <a href="https://github.com/lucasfmerino"> <i class="devicon-github-original"></i> </a>
-     | 
-    <a href="https://www.linkedin.com/in/lucasfmerino">
-      <i class="devicon-linkedin-plain"></i>
-    </a>
-  </div>
+
+- ### John Baliardo [Dev Frontend]<br> <a href="https://github.com/srbaliardo"> ![My Skills](https://skillicons.dev/icons?i=github) </a> <a href="https://www.linkedin.com/in/john-baliardo"> ![My Skills](https://skillicons.dev/icons?i=linkedin) </a>
+
+- ### Lucas Merino [Dev Backend]<br> <a href="https://github.com/lucasfmerino"> ![My Skills](https://skillicons.dev/icons?i=github) </a> <a href="https://www.linkedin.com/in/lucasfmerino"> ![My Skills](https://skillicons.dev/icons?i=linkedin) </a>
+
 </div>
 
 <br>
@@ -42,19 +29,19 @@ Pode acessar a página <a href="https://srbaliardo.github.io/hivetron-technology
 
 ### Na Hivetron, transformamos desafios em soluções tecnológicas. Oferecemos uma gama de serviços personalizados para atender às necessidades específicas de cada cliente. Conheça o que podemos fazer por você:
 
-### - Desenvolvimento de Software Personalizado
+- ### Desenvolvimento de Software Personalizado
 
 Criamos soluções sob medida para o seu negócio, garantindo que cada sistema seja projetado para atender às suas demandas específicas. Do planejamento à entrega, desenvolvemos aplicações robustas e escaláveis que impulsionam a sua empresa.<br>
 
-### - Implantação de Sistemas de Automação
+- ### Implantação de Sistemas de Automação
 
 Otimize processos, reduza custos e aumente a eficiência com nossas soluções de automação. Integramos e configuramos sistemas que facilitam o gerenciamento e potencializam os resultados da sua operação.<br>
 
-### - Design e Otimização de Sites e Landing Pages
+- ### Design e Otimização de Sites e Landing Pages
 
 Destaque sua presença online com sites e landing pages modernos, funcionais e otimizados para conversão. Nosso time combina design criativo com as melhores práticas de SEO para garantir que sua marca tenha impacto na web.<br>
 
-### - Consultoria em Transformação Digital
+- ### Consultoria em Transformação Digital
 
 Prepare sua empresa para o futuro com nossas consultorias estratégicas. Ajudamos você a implementar as melhores tecnologias e práticas para digitalizar processos, modernizar operações e alcançar novos níveis de produtividade.
 
@@ -62,17 +49,19 @@ Prepare sua empresa para o futuro com nossas consultorias estratégicas. Ajudamo
 
 ## Technologias
 
-Utilizamos tecnologias como JAVA, Spring, React, JavaScript e outras conforme a solução exige para uma boa performance.
+Utilizamos tecnologias como:<br>
+![My Skills](https://skillicons.dev/icons?i=java,spring,docker,react,js)
 
 <br>
 
 ## Contatos
 
-Você pode entrar em contato conosco através dos canais:
+### Você pode entrar em contato conosco através dos canais:
 
-- Email: hivetron.dev@gmail.com
-- Telefone/Whatsapp: +55 (16) 988455588
+- #### Email: hivetron.dev@gmail.com
+- #### Telefone/Whatsapp: <a href="https://wa.me/5516988455588?text=" target="_blank">+55 (16) 988455588</a>
 
-🤝 Autor
-Desenvolvido por <a href="https://github.com/SrBaliardo">SrBaliardo</a>
-📦 Desenvolvido com React.js
+<br><br>
+
+🤝 Autor<br>
+Desenvolvido por <a href="https://github.com/SrBaliardo">SrBaliardo</a><br>
